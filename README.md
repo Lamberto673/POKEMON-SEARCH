@@ -32,7 +32,9 @@ https://projectpokemonsearch.netlify.app/
 
 ## 🖼️ Preview
 Add your screenshot here:  
-`https://github.com/Lamberto673/POKEMON-SEARCH/blob/master/c9a652c1-0051-4a00-985d-77c318cb0fc5.jpeg`
+<p align="center">
+  <img src="https://github.com/Lamberto673/POKEMON-SEARCH/blob/master/c9a652c1-0051-4a00-985d-77c318cb0fc5.jpeg" width="400" alt="Calculator Preview">
+</p>
 
 ---
 
